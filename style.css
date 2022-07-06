@@ -45,6 +45,7 @@ p {
     padding: 17px 20px;
     border-radius: 5%;
     font-weight: bold;
+    margin-top: 10px;
 }
 
 .donateToday {
@@ -176,6 +177,7 @@ p {
     margin-left: -6px;
     text-align: center;
     font-weight: bold;
+    cursor: pointer;
 }
 
 .email_area {
@@ -186,6 +188,19 @@ p {
     margin-right: 20%;
     padding: 5% 5%;
 }
+
+.partner-icons {
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.icon-style {
+    margin-right: 5%;
+    width: 20%;
+}
+
 
 .footer-area {
     text-align: center;
