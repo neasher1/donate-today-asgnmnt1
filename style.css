@@ -186,3 +186,16 @@ p {
     margin-right: 20%;
     padding: 5% 5%;
 }
+
+.footer-area {
+    text-align: center;
+    background-color: #0B0D17;
+    color: white;
+    padding: 2px;
+}
+
+.footer-area h1 {
+    font-family: 'Caveat', cursive;
+    font-size: 50px;
+    color: #FF5959;
+}
